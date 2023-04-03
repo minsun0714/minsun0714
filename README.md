@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Front-End Developer
 <!--
 **minsun0714/minsun0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
