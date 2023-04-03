@@ -31,4 +31,8 @@ Here are some ideas to get you started:
 
 ![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsun0714&show_icons=true&theme=radical)
 
+## My Precious Velog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jasmine0714)](https://velog.io/@jasmine0714)
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
