@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 </div>
 
+<h1 align ="center">Algorithm</h1>
 <div align ="center">
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptminsun)](https://solved.ac/javascriptminsun/)
