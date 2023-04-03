@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=50)
 
 <p align ="center">
-## Skills
+<h1>Skills</h1>
 
 <p align ="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
