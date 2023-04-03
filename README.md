@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 
 
-<h1 align ="center"></h1>
+<h1 align ="center">알고리즘</h1>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptminsun)](https://solved.ac/javascriptminsun/)
  <img src="http://mazandi.herokuapp.com/api?handle=javascriptminsun&theme=cool"/>
