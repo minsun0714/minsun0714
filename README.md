@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=50)
 
-<p align ="center">
+<h1 align ="center">
 <h1>Skills</h1>
 
 <p align ="center">
