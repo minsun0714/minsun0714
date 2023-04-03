@@ -20,8 +20,10 @@
 
 <!-- ![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsun0714&show_icons=true&theme=radical) -->
 
+<div align ="center">
+
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jasmine0714)](https://velog.io/@jasmine0714)
-
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
