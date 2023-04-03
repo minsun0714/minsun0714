@@ -30,3 +30,5 @@ Here are some ideas to get you started:
  <img src="http://mazandi.herokuapp.com/api?handle=javascriptminsun&theme=cool"/>
 
 ![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsun0714&show_icons=true&theme=radical)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
