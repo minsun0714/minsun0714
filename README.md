@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=%Front-End20Developer&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Front-End%20Developer&fontSize=30)
 <!--
 **minsun0714/minsun0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
