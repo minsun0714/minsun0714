@@ -13,10 +13,6 @@
 <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 
-<p align ="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsun0714)](https://github.com/minsun0714/github-readme-stats)
-
 
 <h1 align ="center">Algorithm</h1>
   
