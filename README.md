@@ -1,7 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Front-End%20Developer&fontSize=50) -->
 
-<h1 align ="center">Skills</h1>
-
 <p align ="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -14,14 +12,12 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 
 
-<h1 align ="center">알고리즘</h1>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptminsun)](https://solved.ac/javascriptminsun/)
  <img src="http://mazandi.herokuapp.com/api?handle=javascriptminsun&theme=cool"/>
 
 <!-- ![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsun0714&show_icons=true&theme=radical) -->
 
-<h1 align ="center">Velog</h1>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jasmine0714)](https://velog.io/@jasmine0714)
 
