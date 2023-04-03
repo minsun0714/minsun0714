@@ -1,5 +1,4 @@
-### Front-End Developer
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=텍스트&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Front-End Developer&fontSize=50)
 
 <!--
 **minsun0714/minsun0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
