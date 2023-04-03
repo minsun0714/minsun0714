@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=React&logoColor=white" />
-
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 
-  
+<p align ="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsun0714)](https://github.com/minsun0714/github-readme-stats)
 
 
