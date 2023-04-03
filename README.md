@@ -15,7 +15,7 @@
 <div align ="center">
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptminsun)](https://solved.ac/javascriptminsun/)
- <img src="http://mazandi.herokuapp.com/api?handle=javascriptminsun&theme=cool"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=javascriptminsun&theme=cool" target="_blank"/>
 </div>
 
 <!-- ![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsun0714&show_icons=true&theme=radical) -->
