@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Front-End%20Developer&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=black&height=180&section=header&text=💡%20Front-End%20Developer&fontSize=50)
 
 <h1 align ="center">🛠️ Skills</h1>
 <div align ="center">
