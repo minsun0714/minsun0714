@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=1abc9c&height=180&section=header&text=🚀%20Front-end%20engineer로%20성장%20중&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=egg&color=1abc9c&height=180&section=header&text=🚀%20Front-end%20engineer로%20성장%20중&fontSize=40)
 <h1 align ="center">🔉 Programming Language</h1>
 
 <div  align ="center">
