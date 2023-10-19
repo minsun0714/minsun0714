@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=1abc9c&height=180&section=header&text=🚀%20Front-end%20engineer로%20성장%20중&fontSize=40)
 <h1 align ="center">🔉 Programming Language</h1>
 
 <div  align ="center">
@@ -24,17 +23,6 @@
 <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 </div>
-
-
-
-<h1 align ="center">📶 Algorithm</h1>
-<div align ="center">
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javascriptminsun)](https://solved.ac/javascriptminsun/)
- <img src="http://mazandi.herokuapp.com/api?handle=javascriptminsun&theme=cool" target="_blank"/>
-</div>
-
-<!-- ![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsun0714&show_icons=true&theme=radical) -->
 
 <h1 align ="center">⌘ Tech Blog</h1>
 <div align ="center">
